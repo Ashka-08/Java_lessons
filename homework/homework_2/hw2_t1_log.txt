@@ -1,0 +1,10 @@
+янв. 30, 2023 8:47:12 PM homework.homework_2.task_1 Bubble
+INFO: [3, 9, 2, 5, 7]
+янв. 30, 2023 8:47:12 PM homework.homework_2.task_1 Bubble
+INFO: [3, 2, 9, 5, 7]
+янв. 30, 2023 8:47:12 PM homework.homework_2.task_1 Bubble
+INFO: [3, 2, 5, 9, 7]
+янв. 30, 2023 8:47:12 PM homework.homework_2.task_1 Bubble
+INFO: [3, 2, 5, 7, 9]
+янв. 30, 2023 8:47:12 PM homework.homework_2.task_1 Bubble
+INFO: [2, 3, 5, 7, 9]
