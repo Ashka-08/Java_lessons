@@ -1,0 +1,10 @@
+янв. 30, 2023 10:48:38 PM homework.homework_2.task_4 main
+INFO: 4+10=14
+янв. 30, 2023 10:54:26 PM homework.homework_2.task_4 main
+INFO: 4+6=10
+янв. 30, 2023 10:54:35 PM homework.homework_2.task_4 main
+INFO: 10/5=2
+янв. 30, 2023 10:55:31 PM homework.homework_2.task_4 main
+INFO: 2*4=8
+янв. 30, 2023 10:56:02 PM homework.homework_2.task_4 main
+INFO: 10-3=7
