@@ -4,16 +4,10 @@
 ___
 ### Лекция 1
 ___
+
 **task_1**
 
-* Объявление переменных
-* Типы данных
-* Массивы
-* Форматирование вывода
-* If else
-* While / While do
-* For each / For in
-* Switch case
+Объявление переменных, Типы данных, Массивы, Форматирование вывода, If else, While / While do, For each / For in, Switch case
 
 **task_2**
 * Объявление переменной через var
@@ -27,7 +21,6 @@ ___
 * static void sayHi()
 * static int sum(int a, int b)
 * Рекурсия факториала static double factor(int n) 
-
 ___
 ### Лекция 2
 ___
@@ -133,6 +126,37 @@ remove and copyOf
 **EX007**
 
 iterator and hasNext()
+
+___
+### Лекция 4
+___
+
+**EX000**
+
+import java.util.PriorityQueue
+
+**EX001**
+
+import java.util.LinkedList
+
+**EX002**
+
+import java.util.Queue
+
+**EX003**
+
+Deque<Integer> deque = new ArrayDeque<>();
+
+**EX004**
+
+Stack<Integer> stack = new Stack<>();
+
+**EX005**
+
+* Решение выражения в постфиксной форме записи через Stack
+* import java.util.Stack
+* функция private static boolean isDigit(String s) throws NumberFormatException через try-catch и Integer.parseInt(s)
+
 ___
 ## Семинары
 ___
