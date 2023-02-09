@@ -1,5 +1,8 @@
 package seminars.seminar_2;
 
+// Архиватор
+// fffhhhhrr - 3f4h2r
+
 import java.util.Scanner;
 public class task_2_2 {
     public static void main(String[] args) {
